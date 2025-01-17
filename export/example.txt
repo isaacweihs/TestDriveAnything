@@ -1,1 +1,1 @@
-
+include "#/develop/gameBase/gameData/units/tankModels/cn_vt_4b.blk"
